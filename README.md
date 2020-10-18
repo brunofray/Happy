@@ -70,7 +70,7 @@
 
 ```
 - Clone o repositório:
-  $ git clone https://github.com/brunofray/nlw nlw
+  $ git clone https://github.com/brunofray/Happy nlw
 
 - Entre no diretório:
 $ cd nlw
